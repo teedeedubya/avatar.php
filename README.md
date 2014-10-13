@@ -20,6 +20,6 @@ MIT
 
 ## Author Information
 
-tony Welder
+Tony Welder
 tony.welder@gmail.com
 
