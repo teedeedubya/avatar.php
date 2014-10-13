@@ -6,7 +6,7 @@
 
 - php..... -_- 
 
-## Example Playbook
+## Mo Description Mo Problems 
 
 - Upload this to any server you're interested in gaining shell access to, THIS IS IN NO WAY A GOOD IDEA.
 - I DON'T KNOW IF THIS EVEN STILL WORKS, it was wrote 5 years ago while I was in a security competition.
